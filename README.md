@@ -1,5 +1,5 @@
 # LeetCode
-## 1.Dynamic Programming
+## 1.DP(Dynamic Programming)
  Number  | Title  | Language   | My Solution    | Others' soltuion    | Title   
 ----  | ---- | -----  | ----   | ----   | ----  
 
