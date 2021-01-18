@@ -1,7 +1,8 @@
 # LeetCode
 ## 1.DP(Dynamic Programming)
- Number  | Title  | Language   | My Solution    | Others' soltuion    | My Solution   
+ Number  | Title  | Language   | code    | Others' soltuion    | My Solution   
 ----  | ---- | -----  | ----   | ----   | ----  
+1  | 1444. 切披萨的方案数 | C++  | [Link]()   | [Link](https://leetcode-cn.com/problems/number-of-ways-of-cutting-a-pizza/solution/dong-tai-gui-hua-c-by-smilyt_/)   | ----  
 
 
 
