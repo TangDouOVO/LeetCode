@@ -16,4 +16,5 @@
  Number  | Title  | Language   | code    | Others' soltuion    | My Solution  
 ----  | ---- | -----  | ----   | ----   | ----  
 1  | 1726. 同积元组 | C++  | [Link](https://github.com/TangDouOVO/LeetCode/blob/main/Math/1%E5%90%8C%E7%A7%AF%E5%85%83%E7%BB%84.cpp)   | [Link](https://leetcode-cn.com/problems/tuple-with-same-product/solution/c-ha-xi-huan-chong-si-lu-jie-jue-tle-by-drtg5/)   | ----  
+2  | 1727. 重新排列后的最大子矩阵 | C++  | [Link]()   | ----   | √  
 
