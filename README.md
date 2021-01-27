@@ -3,6 +3,7 @@
  Number  | Title  | Language   | code    | Others' soltuion    | My Solution   
 ----  | ---- | -----  | ----   | ----   | ----  
 1  | 1444. 切披萨的方案数 | C++  | [Link](https://github.com/TangDouOVO/LeetCode/blob/main/DP/1%E5%88%87%E6%8A%AB%E8%90%A8%E7%9A%84%E6%96%B9%E6%A1%88%E6%95%B0.cpp)   | [Link](https://leetcode-cn.com/problems/number-of-ways-of-cutting-a-pizza/solution/dong-tai-gui-hua-c-by-smilyt_/)   | ----  
+2  | 474. 一和零 | C++  | [Link](https://github.com/TangDouOVO/LeetCode/blob/main/DP/2%E4%B8%80%E5%92%8C%E9%9B%B6.cpp)   | [Link](https://leetcode-cn.com/problems/ones-and-zeroes/solution/dong-tai-gui-hua-0-1bei-bao-wen-ti-labuladongdong-/)   | ----  
 
 
 
@@ -32,3 +33,7 @@
  Number  | Title  | Language   | code    | Others' soltuion    | My Solution   
 ----  | ---- | -----  | ----   | ----   | ----  
 1  | 1579. 保证图可完全遍历 | C++  | [Link](https://github.com/TangDouOVO/LeetCode/blob/main/DSU/1%E4%BF%9D%E8%AF%81%E5%9B%BE%E5%8F%AF%E5%AE%8C%E5%85%A8%E9%81%8D%E5%8E%86.cpp)   | [Link](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/solution/bing-cha-ji-zheng-ming-zui-zhong-di-san-chong-lei-/)   | ---- 
+
+
+
+
