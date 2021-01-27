@@ -25,3 +25,10 @@
  Number  | Title  | Language   | code    | Others' soltuion    | My Solution   
 ----  | ---- | -----  | ----   | ----   | ----  
 1  | 1023. 驼峰式匹配 | C++  | [Link](https://github.com/TangDouOVO/LeetCode/blob/main/LP/1%E9%A9%BC%E5%B3%B0%E5%BC%8F%E5%8C%B9%E9%85%8D.cpp)   | [Link](https://leetcode-cn.com/problems/camelcase-matching/solution/zhong-gui-zhong-ju-kuo-zhan-de-zi-fu-chu-nyvs/)   | ---- 
+
+
+
+## 5.DSU(Disjoint Set Union)
+ Number  | Title  | Language   | code    | Others' soltuion    | My Solution   
+----  | ---- | -----  | ----   | ----   | ----  
+1  | 1579. 保证图可完全遍历 | C++  | [Link](https://github.com/TangDouOVO/LeetCode/blob/main/LP/1%E9%A9%BC%E5%B3%B0%E5%BC%8F%E5%8C%B9%E9%85%8D.cpp)   | [Link](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/solution/bing-cha-ji-zheng-ming-zui-zhong-di-san-chong-lei-/)   | ---- 
