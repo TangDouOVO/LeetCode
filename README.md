@@ -44,3 +44,10 @@
  Number  | Title  | Language   | code    | Others' soltuion    | My Solution   
 ----  | ---- | -----  | ----   | ----   | ----  
 1  | 1038. 把二叉搜索树转换为累加树 | C++  | [Link](https://github.com/TangDouOVO/LeetCode/blob/main/Tree/1%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.cpp)   | [Link](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/solution/1038-cong-er-cha-sou-suo-shu-dao-geng-da-he-shu-fa/)   | ---- 
+
+
+## 7.Composite Method
+ Number  | Title  | Language   | code    | Others' soltuion    | My Solution   
+----  | ---- | -----  | ----   | ----   | ----  
+1  | 778. 水位上升的泳池中游泳 | C++  | [Link](https://github.com/TangDouOVO/LeetCode/blob/main/Tree/1%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.cpp)   | [DFS+BS](https://leetcode-cn.com/problems/swim-in-rising-water/solution/cmo-gai-leetcode-1631-by-heroding-99vh/)   | ---- 
+
