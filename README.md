@@ -51,7 +51,7 @@
 ----  | ---- | -----  | ----   | ----   | ----  
 1  | 778. 水位上升的泳池中游泳 | C++  | [Link](https://github.com/TangDouOVO/LeetCode/blob/main/Tree/1%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.cpp)   | [DFS+BS](https://leetcode-cn.com/problems/swim-in-rising-water/solution/cmo-gai-leetcode-1631-by-heroding-99vh/)   | ---- 
 
-## 8.Sliding Window;
+## 8.Sliding Window
  Number  | Title  | Language   | code    | Others' soltuion    | My Solution   
 ----  | ---- | -----  | ----   | ----   | ----  
 1  | 424. 替换后的最长重复字符 | C++  | [Link](https://github.com/TangDouOVO/LeetCode/blob/main/SW/1%E6%9B%BF%E6%8D%A2%E5%90%8E%E7%9A%84%E6%9C%80%E9%95%BF%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6.cpp)   | [Link](https://leetcode-cn.com/problems/longest-repeating-character-replacement/solution/czui-xiang-xi-ti-jie-by-heroding-olgt/)   | ---- 
