@@ -54,7 +54,6 @@
 ## 8.Sliding Window;
  Number  | Title  | Language   | code    | Others' soltuion    | My Solution   
 ----  | ---- | -----  | ----   | ----   | ----  
-1  | 424. 替换后的最长重复字符 | C++  | [Link](https://github.com/TangDouOVO/LeetCode/blob/main/SW/1%E6%9B%BF%E6%8D%A2%E5%90%8E%E7%9A%84%E6%9C%80%E9%95%BF%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6.cpp
-)   | [Link](https://leetcode-cn.com/problems/longest-repeating-character-replacement/solution/czui-xiang-xi-ti-jie-by-heroding-olgt/)   | ---- 
+1  | 424. 替换后的最长重复字符 | C++  | [Link](https://github.com/TangDouOVO/LeetCode/blob/main/SW/1%E6%9B%BF%E6%8D%A2%E5%90%8E%E7%9A%84%E6%9C%80%E9%95%BF%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6.cpp)   | [Link](https://leetcode-cn.com/problems/longest-repeating-character-replacement/solution/czui-xiang-xi-ti-jie-by-heroding-olgt/)   | ---- 
 
 
